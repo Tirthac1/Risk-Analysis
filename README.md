@@ -8,4 +8,4 @@ Unilever has extended its portfolio of frozen desserts with the acquisition of U
 In this project, we aim to dive into the world of YASSO by enabling them with the power of Rapid RROI to make strategic AI driven decisions.
 ## Screenshots
 
-![App Screenshot](./YAS_ST_Base/Yasso.webp)
+![App Screenshot](Yasso.webp)
