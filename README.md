@@ -1,8 +1,11 @@
-# Risk-Analysis
-Problem Statement
 
-Businesses or companies can fall prey to default if they are not able to keep up their debt obligations. Defaults will lead to a lower credit rating for the company which in turn reduces its chances of getting credit in the future and may have to pay higher interests on existing debts as well as any new obligations. From an investor's point of view, he would want to invest in a company if it is capable of handling its financial obligations, can grow quickly, and is able to manage the growth scale.
+# ICE_YASSO
 
-A balance sheet is a financial statement of a company that provides a snapshot of what a company owns, owes, and the amount invested by the shareholders. Thus, it is an important tool that helps evaluate the performance of a business.
+Yasso is a brand of frozen Greek yogurt desserts that is available in all major grocery and club stores within the United States. Founded in 2009 by kindergarten best friends Amanda Klane and Drew Harrington, Yasso was the first to market frozen Greek yogurt, re-imagining dessert with indulgent flavors and quality ingredients that meet nutritional benchmarks. Yasso offers novelty stick bars, chocolate crunch bars, frozen Greek yogurt sandwiches, bite-size Yasso Poppables and Yasso Mochi, all of which can be found at grocery and club stores in the US.
 
-Data that is available includes information from the financial statement of the companies for the previous year (2015). Also, information about the Networth of the company in the following year (2016) is provided which can be used to drive the labeled field
+Unilever has extended its portfolio of frozen desserts with the acquisition of US frozen Greek yogurt brand Yasso in Q3 2023.
+
+In this project, we aim to dive into the world of YASSO by enabling them with the power of Rapid RROI to make strategic AI driven decisions.
+## Screenshots
+
+![App Screenshot](./YAS_ST_Base/Yasso.webp)
